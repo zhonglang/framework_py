@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="pathlib" />
+            <item index="1" class="java.lang.String" itemvalue="xlsxwriter" />
+            <item index="2" class="java.lang.String" itemvalue="django-celery" />
+            <item index="3" class="java.lang.String" itemvalue="supervisor" />
+            <item index="4" class="java.lang.String" itemvalue="celery" />
+            <item index="5" class="java.lang.String" itemvalue="Django" />
+            <item index="6" class="java.lang.String" itemvalue="cryptography" />
+            <item index="7" class="java.lang.String" itemvalue="requests" />
+            <item index="8" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="9" class="java.lang.String" itemvalue="Mako" />
+            <item index="10" class="java.lang.String" itemvalue="django-timezone-field" />
+            <item index="11" class="java.lang.String" itemvalue="python-magic" />
+            <item index="12" class="java.lang.String" itemvalue="pymysql" />
+            <item index="13" class="java.lang.String" itemvalue="PyMySQL" />
+            <item index="14" class="java.lang.String" itemvalue="redis" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
